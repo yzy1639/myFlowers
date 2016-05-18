@@ -1,0 +1,45 @@
+<div class="m-index">
+	<header>
+		<ul>
+			<li >
+				<i><a href="#"><img src="/flowers/images/logo.png" /></a></i>
+			</li>
+			<li class="yo-ico">
+				<b>&#xe611;</b>
+				<div>
+					<p>首页</p>
+					<p>品牌故事</p>
+					<p>找鲜花</p>
+					<p>供鲜花</p>
+					<p>鲜花订阅</p>
+					<p>婚礼花艺</p>
+					<p>宜花大事记</p>
+					<p>加入我们</p>
+				</div>
+			</li>
+		</ul>
+	</header>
+	<div class="m-content">
+		
+	</div>
+	<footer>
+		<ul>
+			<li class="active" action-type="tap.switch" data-tag="home">
+				<i class="yo-ico">&#xe600;</i>
+				<b>首页</b>
+			</li>
+			<li action-type="tap.switch" data-tag="love">
+				<i class="yo-ico">&#xe60f;</i>
+				<b>喜欢</b>
+			</li>
+			<li action-type="tap.switch" data-tag="my">
+				<i class="yo-ico">&#xe6bc;</i>
+				<b>我的</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe612;</i>
+				<b>退出</b>
+			</li>
+		</ul>
+	</footer>
+</div>

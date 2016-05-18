@@ -1,0 +1,152 @@
+<div spa-widget="scroll" class="main_content">
+	<div>
+		<div class="banner">
+			 <!-- Swiper -->
+		    <div class="swiper-container">
+		        <div class="swiper-wrapper">
+		            <div class="swiper-slide">
+		            	<img src="/flowers/images/banner.jpg" />
+		       			<span class="ani span-fade" swiper-animate-effect="span-fade">
+		       				<img src="/flowers/images/banner_text_1.png" />
+		       			</span>
+		       			<span class="ani span-bounce" swiper-animate-effect="bounceIn" swiper-animate-duration="0.5s" swiper-animate-delay="0.3s">
+		       				<img src="/flowers/images/banner_text_2.png" />
+		       			
+		            	
+		            </div>
+		            <div class="swiper-slide">
+		            	
+		            		<img src="/flowers/images/banner_2.jpg" />
+		            		<span class="ani span-fade" swiper-animate-effect="span-fade">
+		           				<img src="/flowers/images/banner_text_3.png" />
+		           			</span>
+		            	
+		            </div>
+		        </div>
+		    </div>
+		</div>
+
+
+		<dl>
+			<dt>
+				<img src="/flowers/images/main_img_1.jpg" />
+			</dt>
+			<dd>
+				<h4>
+					宜花找鲜花
+					<span><img src="/flowers/images/main_icon_1 (1).png" /></span>
+				</h4>
+				<h5>鲜花供应者的零售平台</h5>
+				<img src="/flowers/images/main_text_1.png" />
+				<p>
+					"足不出户，快速交易，隔日送达"
+					<br />
+					"原产地直采，供应商考核零容忍"
+					<br />
+					"价格、数量、实效、损耗、品质多维度可控"
+				</p>
+			</dd>
+		</dl>
+		<dl>
+			<dd class="main_text">
+				<h4>
+					个人鲜花订阅
+					<span><img src="/flowers/images/main_icon_2.png" /></span>
+				</h4>
+				<h5>个人消费者的鲜花订阅服务</h5>
+				<img src="/flowers/images/main_text_2.png" />
+				<p>
+					"云南及海外花源地直采"
+					<br />
+					"24小时自有物流体系配送"
+					<br />
+					"提供随心阅、小确幸两类订阅产品"
+				</p>
+			</dd>
+			<dt class="main_img">
+				<img src="/flowers/images/main_img_2.jpg" />
+			</dt>
+		</dl>
+		<dl>
+			<dt>
+				<img src="/flowers/images/main_img_3.jpg" />
+			</dt>
+			<dd>
+				<h4>
+					宜花婚礼花艺
+					<span><img src="/flowers/images/main_icon_1 (1).png" /></span>
+				</h4>
+				<h5>婚礼花艺众包平台</h5>
+				<img src="/flowers/images/main_text_1.png" />
+				<p>
+					"首个婚礼花艺众包平台"
+					<br />
+					"婚庆公司全年合作、花艺师平台接订单"
+					<br />
+					"花艺师及花艺作品可控、婚礼成本降低、"
+					<br />
+					"花艺师收入增加"
+				</p>
+			</dd>
+		</dl>
+		<section class="main_video">
+			<img src="/flowers/images/video_bg.jpg" />
+			<h4>别让花瓶空着，让幸福满着</h4>
+			<p>
+				宜花,中国目前最大的鲜花供应链公司.所用鲜花来自云南及海外花源地直采,
+				<br />
+				24小时自有物流体系配送直达用户手中。
+			</p>
+			<ul>
+				<li>性价比高</li>
+				<li>货源优质</li>
+				<li>免费配送</li>
+				<li>花材预定</li>
+			</ul>
+		</section>
+		<section class="main_history">
+			<h4>宜花发展历程</h4>
+			<h5>SELF-DEVELOPMENT FOUNDACTION</h5>
+			<ul>
+				<li>
+					<img src="/flowers/images/history_icon_1.png" />
+				</li>
+				<li>
+					<img src="/flowers/images/history_icon_2.png" />
+				<li>
+					<img src="/flowers/images/history_icon_3.png" />
+				</li>
+				<li>
+					<img src="/flowers/images/history_icon_4.png" />
+				</li>
+			</ul>
+			<h3>团队发展</h3>
+			<p>从2014年成立到2015年，一年时间从30多人的增长到近500人的团队</p>
+		</section>
+		<section class="main_plane">
+			<img src="/flowers/images/plane.jpg" />
+		</section>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
